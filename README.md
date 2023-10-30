@@ -1,4 +1,4 @@
-#Binary Search
+# Binary Search
 1. `General Trees:`Are unordered tree data structures where the root node has minimum 0 or maximum ‘n’ subtrees.
 2. `Binary Trees:` are general trees where node can hold max. of 2 subtrees. They are of 3 types
 	- `Full Binary Tree:` A full binary tree is a binary tree type where every node has either 0 or 2 child nodes.
