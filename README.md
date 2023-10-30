@@ -15,12 +15,12 @@
 	- Right Left.
 # Self-balancing binary search trees
 1. AVL Trees
-They ensure that the height difference between the left and right subtrees (the balance factor) of any node is at most 1. This guarantees that the tree remains balanced, and operations have a logarithmic time complexity
+- They ensure that the height difference between the left and right subtrees (the balance factor) of any node is at most 1. This guarantees that the tree remains balanced, and operations have a logarithmic time complexity
 2. Red-Black Trees
-They ensure that the tree remains approximately balanced by enforcing certain rules and are more flexible than AVL trees in terms of balancing.
+- They ensure that the tree remains approximately balanced by enforcing certain rules and are more flexible than AVL trees in terms of balancing.
 3. B Trees and B+ Trees
-They are typically used in database systems and file systems. They are not binary trees but are self-balancing tree structures that generalize binary search trees.
+- They are typically used in database systems and file systems. They are not binary trees but are self-balancing tree structures that generalize binary search trees.
 4. Splay Trees
-They are self-adjusting binary search tree. They reorganize themselves during operations to move recently accessed items closer to the root.
+- They are self-adjusting binary search tree. They reorganize themselves during operations to move recently accessed items closer to the root.
 5. Priority Search Trees
-Priority Search Trees are a type of self-balancing tree used for various applications, including range queries and geometric algorithms. 
+- Priority Search Trees are a type of self-balancing tree used for various applications, including range queries and geometric algorithms. 
