@@ -18,4 +18,3 @@ int binary_tree_balance(const binary_tree_t *tree)
 	bal_factor = left_height - right_height;
 	return (bal_factor);
 }
-
